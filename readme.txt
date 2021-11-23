@@ -15,6 +15,10 @@ tasks            : Task definition files
 tools            : Tools for importing and visualising pycontrol data
 pyControl_GUI.py : Python script to launch the GUI.
 
+<<<<<<< HEAD
 Version: v1.6.1
+=======
+Version: v1.5
+>>>>>>> parent of e4bc957 (- Updated changelog and version numbers for version 1.6)
 ---------------
 

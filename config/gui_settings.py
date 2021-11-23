@@ -1,6 +1,10 @@
 # Graphical user interface settings.
 
+<<<<<<< HEAD
 VERSION = '1.6.1'
+=======
+VERSION = '1.5'
+>>>>>>> parent of e4bc957 (- Updated changelog and version numbers for version 1.6)
 
 update_interval = 10 # Interval between calls to the GUIs update function (ms).
 
